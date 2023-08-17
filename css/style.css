@@ -1,0 +1,35 @@
+* {
+  text-align: center;
+}
+.button {
+  height: 30px;
+  width: 100px;
+  background-color: #4170f2;
+  border: none;
+  border-radius: 5px;
+  color: #ebeced;
+}
+.image1 {
+  height: 100px;
+
+  border-radius: 50%;
+  border: 1px solid #4170f2;
+}
+.image_div {
+  border-radius: 50%;
+  border: 1px solid #ebeced;
+  display: inline-block;
+}
+.card_image_box {
+  background-color: #4170f2;
+  /*justify-content: center;
+      align-items: center;*/
+  height: 150px;
+  border-radius: 0px 0px 0px 20px;
+}
+.mother_div {
+  /*border-radius: 20px;*/
+  display: inline-block;
+  height: 300px;
+  width: 250px;
+}
